@@ -16,10 +16,6 @@ function addtask(){
     }
     savedata();
 }
-// let cross=document.querySelector('span');
-// cross.addEventListener('click',function(){
-//   alert("hello");
-// })
 list.addEventListener('click',function(e){
     if(e.target.tagName==='LI'){
         e.target.classList.toggle("checked");
