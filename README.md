@@ -5,8 +5,8 @@ Welcome to my collection of small JavaScript projects! This repository contains 
 ## Projects Included
 
 - **Weather App**: Displays real-time weather information based on user input using a weather API.
-- **Notes App**: A simple app to take, edit, and delete notes.
-- **Other Projects**: A collection of small interactive projects to demonstrate JavaScript concepts.
+- **Age Calculator**: The Age Calculator is a simple web-based tool that allows users to calculate their exact age based on their birthdate.
+- **Others**: A collection of small interactive projects to demonstrate JavaScript concepts.
 
 ## Features
 
