@@ -49,3 +49,4 @@ If you’d like to contribute to this repository, feel free to do so..
 
 ## License
 This repository is open-source and available under the MIT License. You are free to use, modify, and distribute the projects, but please provide attribution and include the license in your work.
+ - see the [LICENSE](LICENSE) file for details.
