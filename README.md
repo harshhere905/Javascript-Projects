@@ -20,12 +20,11 @@ Welcome to my collection of small JavaScript projects! These projects are simple
    A simple implementation of the classic Tic-Tac-Toe game where you can play against another player in a browser.
 
 ## Features
-
 - Responsive UI for mobile and desktop devices.
 - Easy-to-use and minimalistic designs.
 - Built with vanilla JavaScript, HTML, and CSS.
 - Local storage support for some apps, ensuring data persistence.
-  
+
 ## Installation
 
 To run any of the projects locally:
